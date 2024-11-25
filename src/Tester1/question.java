@@ -35,6 +35,6 @@ public class question {
 			System.out.println("There is no positive number!");
 		}
 		System.out.println("Average of positive numbers : " + average / a);
-		System.out.println("Sum of negative numbers : " + sum / s);
+		System.out.println("Sum of negative numbers : " + sum);
 	}
 }
